@@ -1,5 +1,5 @@
 I did a Not Optimized NodeJs to extract basic Info about our deputies. It use Cherioos librairies. 
-The output is a JSON strucure. It may be uploaded to a MongoDB Collection. 
+The output is a JSON structure. It may be uploaded to a MongoDB Collection. 
 To use this code, simply enter : node scrap.js > fileToSaveInfo
 
 You need to understand DOM HTML, CSS is a huge must, JavaScript to parse the raw data to format it in JSON.
